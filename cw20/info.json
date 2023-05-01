@@ -1,0 +1,29 @@
+{
+  "juno1jg8m65eam46t49evmqfzma0t7lvxxxw2n06428mz844wz9n6f8es274aam": {
+    "name": "Fuzion-One",
+    "token_symbol": "FUZEONE",
+    "decimals": 6,
+    "icon_link": "https://raw.githubusercontent.com/...",
+    "website": "https://beta.fuzion.market",
+    "howl_link": "https://beta.howl.social",
+    "twitter_link": "https://twitter.com/leturt_"
+  },
+  "juno19utsveduy0tdc7fdeaeg7jkkvwfalnxws6mkgsmq45cx68tulztqwcnmgy": {
+    "name": "Fuzion-Two",
+    "token_symbol": "FUZETWO",
+    "decimals": 6,
+    "icon_link": "https://raw.githubusercontent.com/...",
+    "website": "https://beta.fuzion.market",
+    "howl_link": "NONE",
+    "twitter_link": "https://twitter.com/FuzionMarket"
+  },
+  "juno1529vpexhmqdz2fglzxhv29nlyepkvhzuh2w4nk5ud4pnvucer03qdd2rzk": {
+    "name": "Fuzion-Three",
+    "token_symbol": "FUZETRE",
+    "decimals": 6,
+    "icon_link": "https://raw.githubusercontent.com/...",
+    "website": "https://beta.fuzion.market",
+    "howl_link": "NONE",
+    "twitter_link": "NONE"
+  }
+}
