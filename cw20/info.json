@@ -5,17 +5,15 @@
       "name": "Fuzion-One",
       "token_symbol": "FUZEONE",
       "decimals": 6,
-      "icon_link": "https://raw.githubusercontent.com/...",
       "website": "https://beta.fuzion.market",
-      "howl_link": "https://beta.howl.social",
-      "twitter_link": "https://twitter.com/leturt_"
+      "howl_link": "NONE",
+      "twitter_link": "https://twitter.com/FuzionMarket"
     },
     {
       "contract_address": "juno19utsveduy0tdc7fdeaeg7jkkvwfalnxws6mkgsmq45cx68tulztqwcnmgy",
       "name": "Fuzion-Two",
       "token_symbol": "FUZETWO",
       "decimals": 6,
-      "icon_link": "https://raw.githubusercontent.com/...",
       "website": "https://beta.fuzion.market",
       "howl_link": "NONE",
       "twitter_link": "https://twitter.com/FuzionMarket"
@@ -25,10 +23,9 @@
       "name": "Fuzion-Three",
       "token_symbol": "FUZETRE",
       "decimals": 6,
-      "icon_link": "https://raw.githubusercontent.com/...",
       "website": "https://beta.fuzion.market",
       "howl_link": "NONE",
-      "twitter_link": "NONE"
+      "twitter_link": "https://twitter.com/FuzionMarket"
     }
   ]
 }

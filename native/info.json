@@ -1,0 +1,22 @@
+{
+  "natives": [
+    {
+      "name": "Juno Network",
+      "token_symbol": "JUNOx",
+      "token_denom": "ujunox",
+      "decimals": 6,
+      "website": "https://junonetwork.io/",
+      "howl_link": "NONE",
+      "twitter_link": "https://twitter.com/JunoNetwork"
+    },
+    {
+      "name": "Axelar USDC",
+      "token_symbol": "axlUSDCx",
+      "token_denom": "uusdcx",
+      "decimals": 6,
+      "website": "https://axelar.network/",
+      "howl_link": "NONE",
+      "twitter_link": "https://twitter.com/axelarcore"
+    }
+  ]
+}
