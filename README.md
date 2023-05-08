@@ -15,8 +15,6 @@
 └──
 ```
 
-</br>
-
 # **How to add your project's information**
 
 ### **Guidelines**
@@ -51,7 +49,7 @@ This needs to be added to the end of `./cw20/info.json`
 Check out the existing entries or video tutorial if you need some guidance
 
 _Example Project_
-```json
+```js
 {
     // Contract address of the CW20 token
     "contract_address": "juno1xyz...",
@@ -94,7 +92,7 @@ Check out the existing entries or video tutorial if you need some guidance
 
 _Example Project_
 
-```json
+```js
 {
     // Name of the project
     "name": "Juno Network",
