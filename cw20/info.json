@@ -26,6 +26,15 @@
       "website": "https://beta.fuzion.market",
       "howl_link": "NONE",
       "twitter_link": "https://twitter.com/FuzionMarket"
+    },
+    {
+      "contract_address": "juno1xyz...",
+      "name": "My Awesome Project",
+      "token_symbol": "MAP",
+      "decimals": 6,
+      "website": "https://beta.fuzion.market",
+      "howl_link": "NONE",
+      "twitter_link": "https://twitter.com/FuzionMarket"
     }
   ]
 }
