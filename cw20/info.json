@@ -1,31 +1,67 @@
 {
   "cw20s": [
     {
-      "contract_address": "juno1jg8m65eam46t49evmqfzma0t7lvxxxw2n06428mz844wz9n6f8es274aam",
-      "name": "Fuzion-One",
-      "token_symbol": "FUZEONE",
+      "contract_address": "juno1mkw83sv6c7sjdvsaplrzc8yaes9l42p4mhy0ssuxjnyzl87c9eps7ce3m9",
+      "name": "Wynd DAO",
+      "token_symbol": "WYND",
       "decimals": 6,
-      "website": "https://beta.fuzion.market",
+      "website": "https://www.wynddao.com/",
       "howl_link": "NONE",
-      "twitter_link": "https://twitter.com/FuzionMarket"
+      "twitter_link": "https://twitter.com/wynddao"
     },
     {
-      "contract_address": "juno19utsveduy0tdc7fdeaeg7jkkvwfalnxws6mkgsmq45cx68tulztqwcnmgy",
-      "name": "Fuzion-Two",
-      "token_symbol": "FUZETWO",
+      "contract_address": "juno168ctmpyppk90d34p3jjy658zf5a5l3w8wk35wht6ccqj4mr0yv8s4j5awr",
+      "name": "Neta DAO",
+      "token_symbol": "NETA",
       "decimals": 6,
-      "website": "https://beta.fuzion.market",
+      "website": "NONE",
       "howl_link": "NONE",
-      "twitter_link": "https://twitter.com/FuzionMarket"
+      "twitter_link": "https://twitter.com/Neta_DAO"
     },
     {
-      "contract_address": "juno1529vpexhmqdz2fglzxhv29nlyepkvhzuh2w4nk5ud4pnvucer03qdd2rzk",
-      "name": "Fuzion-Three",
-      "token_symbol": "FUZETRE",
+      "contract_address": "juno1g0wuyu2f49ncf94r65278puxzclf5arse9f3kvffxyv4se4vgdmsk4dvqz",
+      "name": "Howl Social",
+      "token_symbol": "HOWL",
       "decimals": 6,
-      "website": "https://beta.fuzion.market",
+      "website": "https://beta.howl.social/",
       "howl_link": "NONE",
-      "twitter_link": "https://twitter.com/FuzionMarket"
+      "twitter_link": "https://twitter.com/howl_social"
+    },
+    {
+      "contract_address": "juno1r4pzw8f9z0sypct5l9j906d47z998ulwvhvqe5xdwgy8wf84583sxwh0pa",
+      "name": "Racoon Supply",
+      "token_symbol": "RAC",
+      "decimals": 6,
+      "website": "NONE",
+      "howl_link": "NONE",
+      "twitter_link": "https://twitter.com/RacoonSupply"
+    },
+    {
+      "contract_address": "juno1rws84uz7969aaa7pej303udhlkt3j9ca0l3egpcae98jwak9quzq8szn2l",
+      "name": "Posthuman DVS",
+      "token_symbol": "PHMN",
+      "decimals": 6,
+      "website": "NONE",
+      "howl_link": "NONE",
+      "twitter_link": "https://twitter.com/POSTHUMAN_DVS"
+    },
+    {
+      "contract_address": "juno14lycavan8gvpjn97aapzvwmsj8kyrvf644p05r0hu79namyj3ens87650k",
+      "name": "Signal",
+      "token_symbol": "SGNL",
+      "decimals": 6,
+      "website": "NONE",
+      "howl_link": "NONE",
+      "twitter_link": "https://twitter.com/SignalSGNL"
+    },
+    {
+      "contract_address": "juno1qsrercqegvs4ye0yqg93knv73ye5dc3prqwd6jcdcuj8ggp6w0us66deup",
+      "name": "Loop Finance",
+      "token_symbol": "LOOP",
+      "decimals": 6,
+      "website": "NONE",
+      "howl_link": "NONE",
+      "twitter_link": "https://twitter.com/loopprotocol"
     }
   ]
 }
