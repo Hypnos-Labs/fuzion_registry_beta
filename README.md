@@ -27,8 +27,8 @@
 ❌ Do not add more than 1 project per pull request
 
 
-### **Video tutorial**
-[Video Tutorial]
+### [Video tutorial](https://youtu.be/8BDJMUDS3gU)
+
 
 ### **Quick Start**
 

@@ -2,8 +2,8 @@
   "natives": [
     {
       "name": "Juno Network",
-      "token_symbol": "JUNOx",
-      "token_denom": "ujunox",
+      "token_symbol": "JUNO",
+      "token_denom": "ujuno",
       "decimals": 6,
       "website": "https://junonetwork.io/",
       "howl_link": "NONE",
