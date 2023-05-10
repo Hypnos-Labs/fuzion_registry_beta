@@ -98,7 +98,7 @@ _Example Project_
     "name": "Juno Network",
     // Display name of the token
     "token_symbol": "JUNO",
-    // Token Denom (This must match EXACTLY what is on chain!)
+    // Token Denom (If this is an IBC denom, use the IBC hash: ibc/AB123...)
     "token_denom": "ujuno",
     // Token Decimals (typically 6)
     "decimals": 6,
@@ -116,6 +116,8 @@ _Example Project_
 Your logo image should be a 500x500 PNG that is named **exactly** the same as your `token_denom`
 
 For exampe, if your token denom is `ujuno`, then the name of your logo needs to be `ujuno.png`
+
+**Note:** If you are adding an IBC denom, your logo file should be named the name of the IBC hash *excluding* the `ibc/` prefix. So `ibc/ABC123` would be named `ABC123.png` 
 
 *PNG is currently the only file type supported*
 

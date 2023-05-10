@@ -10,13 +10,58 @@
       "twitter_link": "https://twitter.com/JunoNetwork"
     },
     {
-      "name": "Axelar USDC",
-      "token_symbol": "axlUSDCx",
-      "token_denom": "uusdcx",
+      "name": "Axelar",
+      "token_symbol": "axlUSDC",
+      "token_denom": "ibc/EAC38D55372F38F1AFD68DF7FE9EF762DCF69F26520643CF3F9D292A738D8034",
       "decimals": 6,
       "website": "https://axelar.network/",
       "howl_link": "NONE",
       "twitter_link": "https://twitter.com/axelarcore"
+    },
+    {
+      "name": "Cosmos",
+      "token_symbol": "ATOM",
+      "token_denom": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
+      "decimals": 6,
+      "website": "https://cosmos.network/",
+      "howl_link": "NONE",
+      "twitter_link": "https://twitter.com/cosmos"
+    },
+    {
+      "name": "Osmosis",
+      "token_symbol": "OSMO",
+      "token_denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
+      "decimals": 6,
+      "website": "https://osmosis.zone/",
+      "howl_link": "NONE",
+      "twitter_link": "https://twitter.com/osmosiszone"
+    },
+    {
+      "name": "Stargaze",
+      "token_symbol": "STARS",
+      "token_denom": "ibc/F6B367385300865F654E110976B838502504231705BAC0849B0651C226385885",
+      "decimals": 6,
+      "website": "https://www.stargaze.zone/",
+      "howl_link": "NONE",
+      "twitter_link": "https://twitter.com/StargazeZone"
+    },
+    {
+      "name": "Secret Network",
+      "token_symbol": "SCRT",
+      "token_denom": "ibc/B55B08EF3667B0C6F029C2CC9CAA6B00788CF639EBB84B34818C85CBABA33ABD",
+      "decimals": 6,
+      "website": "https://scrt.network/",
+      "howl_link": "NONE",
+      "twitter_link": "https://twitter.com/SecretNetwork"
+    },
+    {
+      "name": "Chihuahua Chain",
+      "token_symbol": "HUAHUA",
+      "token_denom": "ibc/D836B191CDAE8EDACDEBE7B64B504C5E06CC17C6A072DAF278F9A96DF66F6241",
+      "decimals": 6,
+      "website": "https://www.chihuahua.wtf/",
+      "howl_link": "NONE",
+      "twitter_link": "https://twitter.com/ChihuahuaChain"
     }
   ]
 }
