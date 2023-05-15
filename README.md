@@ -12,6 +12,12 @@
 │   │   ├─ logos
 │   │   |   ├─ y.png
 │   │   |   ├─ ...
+│   ├─ nft
+│   │   ├─ info.json
+│   │   ├─ logos_banners
+│   │   |   ├─ z_logo.png
+│   │   |   ├─ z_banner.png
+│   │   |   ├─ ...
 └──
 ```
 
@@ -128,5 +134,81 @@ Now simply add your logo to the `./native/logos` folder and you're good to go!
 ---
 
 ## **NFTs**
+
+### **Project Info**
+
+This needs to be added to the end of `./nft/info.json`
+
+Check out the existing entries or video tutorial if you need some guidance
+
+_Example Project_
+```js
+{
+    // Contract address of the NFT collection
+    "contract_address": "juno1zhe5k4hwh56ql09g05en9nj6gc9cr3hz2xvd8xpg3zaattkeflpqt90yp7",
+    // Name of the project
+    "name": "Neon Peepz",
+    // Short description for the project, maximum 200 characters
+    "description": "Little neon dudes with weapons",
+    // 0-3 Keywords for the project, see "Tag List" below for available Keywords
+    // Use an empty array for None (are you sure you don't want to add some tags?)
+    // "tags": [],
+    "tags": [
+        "Gaming",
+        "Metaverse"
+    ],
+    // Symbol for the collection
+    "symbol": "NEONPEEPZ",
+    // OPTIONAL: Website Link (use "NONE" for no link)
+    "website": "https://beta.fuzion.market/",
+    // OPTIONAL: Howl Social Link (use "NONE" for no link)
+    "howl_link": "NONE",
+    // OPTIONAL: Twitter Page Link (use "NONE" for no link)
+    "twitter_link": "https://twitter.com/FuzionMarket"
+}
+```
+
+### Tag List
+
+Choose 0-3 Tags that best describe what your project is all about. This will help with Search optimization and let potential collectors know what you're building!
+
+If you think we're missing a Tag, feel free to make a PR and let us know
+
+<details>
+<summary>Available Tags</summary>
+<br>
+- "Art"
+- "Charity"
+- "Comics"
+- "Fashion"
+- "Fitness"
+- "Gambling"
+- "Gaming"
+- "Literature"
+- "Memes"
+- "Metaverse"
+- "Music"
+- "Nature"
+- "NSFW"
+- "Photography"
+- "Real Estate"
+- "Sports"
+</details>
+
+### **Project Logo**
+
+Your logo image should be a 500x500 PNG that is named **exactly** the same as your `contract_address`, followed by `_logo`
+
+For exampe, if your collection's contract address is `juno1xyz`, then the name of your logo needs to be `juno1xyz_logo.png`
+
+*PNG is currently the only file type supported*
+
+Now simply add your logo to the `./nft/logos_banners` folder and you're good to go!
+
+### **Project Banner**
+
+Project banners are not available yet, check back soon!
+
+</br>
 
 NFT submissions are not available yet, check back soon!

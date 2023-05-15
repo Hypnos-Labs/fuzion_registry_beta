@@ -1,0 +1,31 @@
+{
+  "collections": [
+    {
+      "contract_address": "juno10824rw54nety6qj6t4cfa7smma222m6qurgvxunc3h0wpesxmqtqcpmm6t",
+      "name": "Shitty Kittyz",
+      "description": "The name says it all",
+      "tags": [
+        "Nature",
+        "Memes",
+        "NSFW"
+      ],
+      "symbol": "SHITTYKITTY",
+      "website": "NONE",
+      "howl_link": "NONE",
+      "twitter_link": "https://twitter.com/FuzionMarket"
+    },
+    {
+      "contract_address": "juno1zhe5k4hwh56ql09g05en9nj6gc9cr3hz2xvd8xpg3zaattkeflpqt90yp7",
+      "name": "Neon Peepz",
+      "description": "Little neon dudes with weapons",
+      "tags": [
+        "Gaming",
+        "Metaverse"
+      ],
+      "symbol": "NEONPEEPZ",
+      "website": "https://beta.fuzion.market/",
+      "howl_link": "NONE",
+      "twitter_link": "https://twitter.com/FuzionMarket"
+    }
+  ]
+}
