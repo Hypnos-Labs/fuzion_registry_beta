@@ -42,7 +42,7 @@
 - Add your project's info and logo
     - Follow the specified structures **exactly**
 - Submit a pull request once your info has been added
-- Your submission will be reviewed within 48 hours :tada:
+- Your submission will be reviewed as soon as possible! :tada:
 
 ---
 

@@ -26,6 +26,45 @@
       "website": "https://beta.fuzion.market/",
       "howl_link": "NONE",
       "twitter_link": "https://twitter.com/FuzionMarket"
+    },
+    {
+      "contract_address": "juno1kpsy0mh58fzrl973ndvppujs9ea5xe9wggjhhg07c42l0yqk5n7st5800h",
+      "name": "Atlas DAO",
+      "description": "Interchain NFT-based DAO",
+      "tags": [
+        "Art",
+        "Music"
+      ],
+      "symbol": "ATLAS",
+      "website": "https://linktr.ee/AtlasDAO",
+      "howl_link": "NONE",
+      "twitter_link": "https://twitter.com/atlasdao_"
+    },
+    {
+      "contract_address": "juno1xwcwnfh9gjqvchl2danhvzsl0h94hrnvuptwajfd3kwx4q9es2gs5uvpj4",
+      "name": "Rekt Bulls",
+      "description": "Rekt Today, Stronger Tomorrow",
+      "tags": [
+        "Memes",
+        "Comics"
+      ],
+      "symbol": "REKTBULLS",
+      "website": "https://www.rektgang.com/",
+      "howl_link": "NONE",
+      "twitter_link": "https://twitter.com/rekt_gang"
+    },
+    {
+      "contract_address": "juno1a90f8jdwm4h43yzqgj4xqzcfxt4l98ev970vwz6l9m02wxlpqd2squuv6k",
+      "name": "Levana",
+      "description": "Levana Dragons",
+      "tags": [
+        "Art",
+        "Gaming"
+      ],
+      "symbol": "LEVANA",
+      "website": "https://levana.finance",
+      "howl_link": "NONE",
+      "twitter_link": "https://twitter.com/Levana_protoco"
     }
   ]
 }
