@@ -199,7 +199,7 @@ If you think we're missing a Tag, feel free to make a PR and let us know
 
 Your logo image should be a 500x500 PNG that is named **exactly** the same as your `contract_address`, followed by `_logo`
 
-For exampe, if your collection's contract address is `juno1xyz`, then the name of your logo needs to be `juno1xyz_logo.png`
+For example, if your collection's contract address is `juno1xyz`, then the name of your logo needs to be `juno1xyz_logo.png`
 
 *PNG is currently the only file type supported*
 
@@ -207,8 +207,10 @@ Now simply add your logo to the `./nft/logos_banners` folder and you're good to 
 
 ### **Project Banner**
 
-Project banners are not available yet, check back soon!
+Adding your project banner is very similar to your logo. The banner image should be a 1500x500 PNG that is named **exactly** the same as your `contract_address`, followed by `_banner`
 
-</br>
+For example, if your collection's contract address is `juno1xyz`, then the name of your logo needs to be `juno1xyz_banner.png`
 
-NFT submissions are not available yet, check back soon!
+*PNG is currently the only file type supported*
+
+Now simply add your logo to the `./nft/logos_banners` folder and you're good to go!
