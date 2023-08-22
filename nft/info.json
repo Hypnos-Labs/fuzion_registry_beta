@@ -65,6 +65,18 @@
       "website": "https://levana.finance",
       "howl_link": "NONE",
       "twitter_link": "https://twitter.com/Levana_protoco"
+    },
+    {
+      "contract_address": "juno1s0s2nfrpfdqk3epatmv047wk0ljecfaxw2cn3wq80mpl6tlxuf5sfu5rw4",
+      "name": "NETA Trooprs",
+      "description": "Made by Rendrasc to support the Neta Community and those who sacrificed their 0.2 NETA to the LP. NETA Trooprs will donate 80% of these mint proceeds to the Neta DAO to help fund their mission to accelerate the growth of teams and dApps on the Juno Network! Strength and Honor!",
+      "tags": [
+        "Art"
+      ],
+      "symbol": "TROOPRS",
+      "website": "https://nft.netadao.zone/collections",
+      "howl_link": "NONE",
+      "twitter_link": "https://twitter.com/Neta_DAO"
     }
   ]
 }
